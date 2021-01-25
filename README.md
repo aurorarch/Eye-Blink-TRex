@@ -16,3 +16,5 @@ To run the script :
 ```sh
 python detect_blink.py -p shape_predictor_68_face_landmarks.dat
 ```
+
+![](https://user-images.githubusercontent.com/44130480/105681604-559a6380-5f17-11eb-9705-f85e6b6fc1b0.mp4)
