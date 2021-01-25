@@ -9,3 +9,10 @@ To install all the required modules :
 ```sh
 pip install -r requirements.txt
 ```
+
+You can download the [facial landmark](dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2) dat file here and save it in the same directory of the script.
+
+To run the script : 
+```sh
+python detect_blink.py -p shape_predictor_68_face_landmarks.dat
+```
